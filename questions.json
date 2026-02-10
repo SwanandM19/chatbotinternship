@@ -61,10 +61,11 @@
       "keywords": ["contact", "sales", "support", "reach", "phone", "email", "get in touch", "call"]
     },
     {
-      "id": 11,
-      "question": "Who is Swanand Mukkawar?",
-      "answer": "Swanand Mukkawar is a computer science undergraduate student from Pune, India. He is a full-stack developer specializing in AI/LLM integration, building SaaS products, and working with technologies like Next.js, TypeScript, Python, and Flutter. He runs Servex.ai, an AI automation agency.",
-      "keywords": ["swanand", "mukkawar", "developer", "who is", "student", "servex"]
-    }
+  "id": 11,
+  "question": "What is your warranty policy?",
+  "answer": "Wilo India offers comprehensive warranty coverage on all pumps. Standard warranty is 12 months from date of commissioning or 18 months from date of dispatch, whichever comes first. Extended warranty options are available upon request. The warranty covers manufacturing defects and material faults.",
+  "keywords": ["warranty", "guarantee", "coverage", "policy", "protection", "defects"]
+}
+
   ]
 }
