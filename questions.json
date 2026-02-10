@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What types of pumps do you manufacture?",
+      "answer": "Wilo Mather & Platt specializes in large-capacity engineered centrifugal pumps, including multistage, vertical turbine, non-clog, and axial split-case pumps for water and sewage applications. The India facilities also manufacture multistage ring section pumps, water transfer pumps, twin pump boosters, submersible borehole pumps, and drainage/dewatering pumps.",
+      "keywords": ["types", "pumps", "manufacture", "products", "what pumps", "kind"]
+    },
+    {
+      "id": 2,
+      "question": "What industries and applications do your pumps serve?",
+      "answer": "Your solutions cater to sectors such as building services (e.g. pressure boosting, HVAC, drainage), water management (potable water supply, wastewater), and industrial applications.",
+      "keywords": ["industries", "applications", "sectors", "serve", "use cases", "where used"]
+    },
+    {
+      "id": 3,
+      "question": "Where are your facilities located?",
+      "answer": "Wilo India (formerly Wilo Mather & Platt) operates major manufacturing and sales sites in Chinchwad, Pune (Corporate & Manufacturing), Kolhapur, and Kesurdi (Pune region, production site). Additionally, sales offices are located across India, including cities like Delhi, Kolkata, Chennai, Bengaluru, and more.",
+      "keywords": ["facilities", "location", "where", "office", "manufacturing", "address", "plant"]
+    },
+    {
+      "id": 4,
+      "question": "Do you offer technical documentation like datasheets and pump curves?",
+      "answer": "Yes—technical specifications, including design points, flow, head, efficiency, power consumption, material of construction, and shaft details, are available. For instance, the MISO 150-500 model datasheet provides detailed operational data (82.6 LPS @ 85 m, efficiency ~73.7%).",
+      "keywords": ["technical", "documentation", "datasheets", "pump curves", "specifications", "specs", "data"]
+    },
+    {
+      "id": 5,
+      "question": "Can we get spare parts for your pumps?",
+      "answer": "Absolutely. Spare parts such as impellers, shafts, bearings, casings, and gland rings are available for various Wilo/Mather & Platt models (e.g., BST, AST, CST, ETISO, PNISO). These can be custom manufactured in CI, SS, Bronze, or as per client drawing.",
+      "keywords": ["spare parts", "parts", "replacement", "impellers", "bearings", "maintenance"]
+    },
+    {
+      "id": 6,
+      "question": "Do your pumps comply with energy efficiency standards?",
+      "answer": "Yes, Wilo is known for energy-efficient pumps, including glandless circulating pumps that deliver significant electricity savings (up to 80%), aligning with EU efficiency guidelines.",
+      "keywords": ["energy", "efficiency", "standards", "compliant", "savings", "power", "green"]
+    },
+    {
+      "id": 7,
+      "question": "Can I get customized pump solutions or support selecting the right model?",
+      "answer": "Certainly. Wilo offers custom engineering, product configuration assistance, system design consultancy, and quote generation through its sales and technical support teams across India.",
+      "keywords": ["customized", "custom", "support", "select", "choosing", "right model", "consultation", "help"]
+    },
+    {
+      "id": 8,
+      "question": "What is your company heritage and background?",
+      "answer": "Founded in India in 1913, Mather & Platt became part of Wilo SE (Germany) in 2005, and transitioned to the brand Wilo India in 2020.",
+      "keywords": ["heritage", "background", "history", "company", "founded", "about", "established"]
+    },
+    {
+      "id": 9,
+      "question": "What is your typical lead time and export capability?",
+      "answer": "Wilo India exports globally across Asia, the Middle East, Africa, and the Americas, handling complete units and accessories. Lead times vary by product.",
+      "keywords": ["lead time", "export", "delivery", "shipping", "international", "global"]
+    },
+    {
+      "id": 10,
+      "question": "How can I contact your sales or support team?",
+      "answer": "You can reach out to the Pune corporate office or visit https://wilo.com/in/en/Local-Information/India/Contact/ for more information.",
+      "keywords": ["contact", "sales", "support", "reach", "phone", "email", "get in touch", "call"]
+    }
+  ]
+}
