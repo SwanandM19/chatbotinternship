@@ -59,6 +59,13 @@
       "question": "How can I contact your sales or support team?",
       "answer": "You can reach out to the Pune corporate office or visit https://wilo.com/in/en/Local-Information/India/Contact/ for more information.",
       "keywords": ["contact", "sales", "support", "reach", "phone", "email", "get in touch", "call"]
-    }
+    },
+    {
+  "id": 11,
+  "question": "Who is Swanand Mukkawar?",
+  "answer": "Swanand Mukkawar is a computer science undergraduate student from Pune, India. He is a full-stack developer specializing in AI/LLM integration, building SaaS products, and working with technologies like Next.js, TypeScript, Python, and Flutter. He runs Servex.ai, an AI automation agency.",
+  "keywords": ["swanand", "mukkawar", "developer", "who is", "student", "servex"]
+}
+
   ]
 }
